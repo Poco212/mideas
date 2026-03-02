@@ -13,6 +13,7 @@ A person who has an access of resources
 The year when the resources has published
 
 ## identifier
+A unique number reference to the resources
 
 ## edition
 Related edition of the resources
