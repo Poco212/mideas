@@ -8,5 +8,5 @@
         - "time"    : "value"
     "abstract"      : "value",
     "keyword"       : "value",
-
+    "type"          : "value"
 }
