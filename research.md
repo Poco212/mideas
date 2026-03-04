@@ -6,6 +6,7 @@
         - "name"    : "value"
         - "date"    : "value"
         - "time"    : "value"
+    "categori"      : "value"
     "abstract"      : "value",
     "keyword"       : "value",
     "type"          : "value"
