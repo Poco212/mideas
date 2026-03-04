@@ -1,24 +1,12 @@
-# research
+{
+    "title"         : "value",
+    "author"        : "value",
+    "date"          : "value",
+    "modified"      : 
+        - "name"    : "value"
+        - "date"    : "value"
+        - "time"    : "value"
+    "abstract"      : "value",
+    "keyword"       : "value",
 
-## title
-The name of resources
-
-## publisher
-The name who publish the resources
-
-## creator
-A person who has an access of resources
-
-## publishing year
-The year when the resources has published
-
-## identifier
-A unique number reference to the resources
-
-## edition
-Related edition of the resources
-
-## abstract
-An explanation or summary content of resources
-
-## download
+}
